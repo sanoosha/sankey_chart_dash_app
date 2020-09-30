@@ -2,6 +2,5 @@
 Flask server running plotly dash application
 
 #### How to Run
-` SET FLASK_DEBUG = 1`
-
-`flask run`
+1. Run in debug mode: ` SET FLASK_DEBUG = 1`
+2. Run scripts: `flask run`
